@@ -1,4 +1,4 @@
-console.log("Jajaja a empezado el registro!");
+/*console.log("Jajaja a empezado el registro!");
 var Login_Or_Regist = prompt("Bienvenido a JS!\nTiene cuenta en esta app?");
 var usuariocreado;
 var num = 1;
@@ -24,7 +24,7 @@ for (let i = 0; i < num; i++) {
         if  (conf_usuario == nombre_usuario_reg || conf_passwd == passwd) {
             
             usuariocreado = conf_usuario;
-            return usuariocreado;
+            //return usuariocreado;
     } else {
         alert("Favor ingrese bien la contraseña")
     }
@@ -33,4 +33,4 @@ for (let i = 0; i < num; i++) {
     alert("Favor oprimir ('si' o 'no')");
 }
 }
-}
+}*/
