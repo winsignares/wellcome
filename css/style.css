@@ -1,6 +1,8 @@
 body{
-    background-color: blue;
-    
+    /*background-color: blue;*/
+    background-image: url(../imagenes/21632.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
 }
   p{
     color: white;
