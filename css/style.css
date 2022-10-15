@@ -1,8 +1,13 @@
 body{
+<<<<<<< HEAD
+    background-color: blue;
+    background-image:  ;
+=======
     /*background-color: blue;*/
     background-image: url(../imagenes/21632.jpg);
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
+>>>>>>> 5b9a16fa15221d8490ee4c4622ddfb5a117952aa
 }
   p{
     color: white;
