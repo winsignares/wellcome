@@ -1,13 +1,8 @@
 body{
-     /*background-color: blue;*/
-     background-image: url(../imagenes/21632.jpg);
-     background-position: right bottom, left top;
-     background-repeat: no-repeat, repeat;
+  background-color: blue;
  }
    p{
-     color: white;
-     font-family: Arial, Helvetica, sans-serif;
-   }
-   h1{
+     color: white;}
+   H1{
      color: white;
    }
