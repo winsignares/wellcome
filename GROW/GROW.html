@@ -1,12 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
+    <title> Formulario Proveedor </title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+
 </head>
+
 <body>
-    
+
+    <div class="contenedor">
+        <form action="">
+            <div class="form-header">
+                <h1 class="form-title">C<span>ontacto</span></h1>
+            </div>
+
+            <p>
+                <label for="id" class="form-label">ID:</label>
+                <input type="text" id="id" class="form-imput" aria-placeholder="Escriba su Id">
+            </p>
+
+            <p>
+                <label for="nombre" class="form-label">Nombres:</label>
+                <input type="text" id="nombre" class="form-imput" aria-placeholder="Escriba su Nombre">
+
+            </p>
+
+            <p>
+                <label for="apellidos" class="form-label">Apellidos:</label>
+                <input type="text" id="apellidos" class="form-imput" aria-placeholder="Escriba su Apellidos">
+            </p>
+
+            <p>
+                <label for="mensaje" class="form-label">Mensaje:</label>
+                <textarea id="mensaje" class="form-textarea" placeholder="Aqui escriba su mensaje"></textarea>
+            </p>
+            <input type="submit" class="btn-submit" value="Enviar">
+        </form>
+    </div>
+
 </body>
+
 </html>
